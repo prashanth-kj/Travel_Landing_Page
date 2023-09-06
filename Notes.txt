@@ -1,0 +1,8 @@
+
+fonts:
+    => Peralta
+    => Poppins
+color:
+    => #EC682C-orange
+    => #4B40C5-dark blue  
+     
